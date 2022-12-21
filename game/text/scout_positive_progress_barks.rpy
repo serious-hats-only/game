@@ -1,0 +1,2 @@
+init python:
+    SCOUT_POSITIVE_PROGRESS_BARKS = ["Keep it up! {ROBOT_NAME} is feeling hot and bothered.", "Incredible\u2014{ROBOT_NAME} is swooning!", "You really have a way with {ROBOT_NAME}", "Make it rain passion!", "You're one honey-tongued interlocutor.", "Hot.", "Oh yeah, {ROBOT_NAME} is getting hot under the collet.", "Poetry, just poetry.", "Aww, touching.", "Beautiful arrangement of words.", "Romance is in the air!", "Gosh, this is making me blush!"]

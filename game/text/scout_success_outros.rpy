@@ -1,0 +1,2 @@
+init python:
+    SCOUT_SUCCESS_OUTROS = ["That thing never stood a chance with a smooth talker like you.", "Brilliant! Another threat to humanity loved to death.", "See ya in the parts bin, you overengineered rust magnet!", "YOU DID IT! Another one bites the dust!", "Great. Now let's get outta here before recon bots search the area.", "Nice! But stay alert: HQ tells me there's more movement in the area.", "That was fast. You're getting the hang of this!", "Whew, that was close. Let's move."]

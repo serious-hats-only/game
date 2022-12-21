@@ -1,0 +1,30 @@
+This conversation is going too well. Stop it!	4	R
+Perfect! That was really stilted and unappealing!	1	R
+You can't imagine how unattractive that was. Great job!	2	R
+Have you gotten worse at flirting!? Amazing!	2	R
+I have a gym membership that I don't even use.	2	R
+So, this rubble sure is strewn.	3	B
+If I eat too much too fast it makes me sneeze.	1	R
+Where we're standing used to be a discount furniture store.	1	R
+Cool it! Your words are triggering heartfelt memories.	5	R
+I'm looking for someone who has their priorities straight and no radiation sickness.	3	R
+Yeah family is super important to me, too.	4	R
+Loooove mexican food. The best.	5	R
+You don't like traveling?!	2	R
+Huh. Yeah I see how that could be funny, I guess...	1	Q
+Gosh, I'm tired. Are you tired? Tiiiiiiiired.	2	Q
+I can't think of anything to talk about.	2	Q
+Enough with the seduction, agent! It's time to get awkward!	3	B
+Sorry, I kind of tuned out the last few things you said.	2	Q
+So... the weather has really been... you know... weather-y, lately, huh?	1	Q
+Sorry... I totally forgot. What were you just saying?	1	Q
+Prepare yourself: We're about to enter the friendzone!	3	B
+I've been having a lot of digestive issues recently. Just some GI stuff that I didn't want to bother you with earlier.	1	R
+You have something stuck in your teeth. Oops nevermind, that’s just the way your mouth is.	1	R
+I’m a pretty big fan of elephants. You probably enjoy other stuff though, like paper.	3	R
+Does saliva have no taste? Or are we just used to the taste of our own saliva?	3	Q
+I’ve been keeping track of when I have diarrhea. I record it on my Bowel Chart.	2	R
+Hey, quit talking about nature stuff. It’s turning me on.	5	R
+My parents were killed by robots before I was born. I was raised by the rats that gnawed me out of my mother’s carcass.	2	R
+I’ve always wanted to visit the smoldering ruins of Paris. So romantic.	4	R
+Ugh uck aaaak. Sorry, threw up in my mouth a little. What were you saying?.	1	Q
