@@ -1,0 +1,2 @@
+init python:
+    SCOUT_FAILURE_OUTROS = ["Buck up, Rico Suave. You'll sweep these droids off their treads next time.", "Almost. But 'almost' ain't gonna cut it.", "Damn! It didn't work. You stay here while I go find a med pack.", "Be glad you only lost a hand. My old squadmate lost both his arms to one of those things.", "You're losing blood fast! Take cover!", "It's written you off as a phony. RUN!!!!!"]
